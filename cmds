@@ -1,0 +1,2 @@
+bundle exec rspec
+gcc main.c -o db
