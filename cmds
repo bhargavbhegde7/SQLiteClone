@@ -1,2 +1,3 @@
 bundle exec rspec
 gcc main.c -o db
+command to use vim as a hex editor ':%!xxd' 
